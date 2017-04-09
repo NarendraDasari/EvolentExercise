@@ -1,4 +1,4 @@
-# EvolentExercise
+# REST - Web APi with Autofac IoC
 
 Author : Narendra Babu Dasari
 LinkedIn Profile : https://www.linkedin.com/in/narendra-babu-dasari/
